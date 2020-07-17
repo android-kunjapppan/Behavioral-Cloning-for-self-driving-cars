@@ -30,5 +30,6 @@ To train my model I used dataset provided by Udacity. And the data is divided in
 
 ### Evaluation Video
 
-![Demo](Evaluation.gif)
-
+<p align="center">
+  <img src="Evaluation.gif">
+</p>
